@@ -1,1 +1,1 @@
-# boogle-issue-board
+#### 북을 이슈 보드 repository
